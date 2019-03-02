@@ -12,7 +12,7 @@ console.log("Array length: ", pens.length);
  pens.reverse();
 
 // Remove the first value of the array:
-// pens.shift();
+pens.shift();
 
 // Add comma-separated list of values to the front of the array:
 // pens.unshift("purple", "black");
